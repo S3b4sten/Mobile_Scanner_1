@@ -1,0 +1,5 @@
+{
+  "name": "Smart-Aid Inventory",
+  "description": "Intelligent inventory management using Gemini for object recognition and attribute extraction.",
+  "requestFramePermissions": ["camera"]
+}
